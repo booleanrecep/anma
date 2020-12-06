@@ -16,8 +16,7 @@
     "react-scripts": "^4.0.0"
   },
   "scripts": {
-    "start": "react-scripts build && node server.js",
-    "build": ""
+    "start": "react-scripts build && node server.js"
   },
   "eslintConfig": {
     "extends": "react-app"
